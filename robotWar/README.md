@@ -15,7 +15,7 @@ Le mécanisme de plugins devra utiliser les annotations comme vu dans le TP4.
 	- Interfaces(Terrain, Robotes, GestionnairePlugin..),  Annotations et Plugins: 2personnes
 	- La sérialisation (persistance): 1/2personne
 	- l'IA(depl aleat, attaque alea,..): 1personne
-	- squelette du jeu: 1/2 personne; (thiaw a commence)
+	- squelette du jeu: 1/2 personne; 
 =======
 #Ligne de conduite
 Il est necessaire de recompiler tout le projet (modules et sous-module), afin de voir ou corriger les eventuelles erreurs.
